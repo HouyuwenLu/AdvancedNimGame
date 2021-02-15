@@ -1,3 +1,4 @@
+# Advanced Nim Game
 Introduction 
 
 The advanced nim game is played by two players. Two players can be either two human players or one human and one AI player. The logic of the game is that player decides how
