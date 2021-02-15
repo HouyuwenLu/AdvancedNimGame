@@ -1,16 +1,4 @@
-/**
- * The university of Melbourne
- * School of Computing and Information Systems
- * COMP90041 Programming and Software Development
- * Lecturer: Dr Tilman Dingler, Dr Thuan Pham
- * Semester 2, October 15th, 2020
- * Project 1, The Game of Nim
- * Student Name: Houyuwen Lu
- * Student Number: 1205947
- * Github repository link: https://github.com/COMP90041/assignment-2-HouyuwenLu-COMP90041.git
- * NimPlayer class and invoked in Nimsys class
- * @author Houyuwen Lu
- */
+
 import java.text.DecimalFormat;
 public abstract class NimPlayer {
     // declare the name, wins, and games as instance variables in the class NimPlayer
